@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="money">Пожертвования</string>
+    <string name="createsbor">Создать сбор</string>
+    <string name="info_first">У Вас пока нет сборов.\nНачните доброе дело.</string>
+    <string name="sbor">Целевой сбор</string>
+    <string name="whensbor">Когда есть определённая цель</string>
+    <string name="tupeofsbor">Тип сбора</string>
+    <string name="sbor2">Регулярный сбор</string>
+    <string name="whensbor2">Если помощь нужна ежемесячно</string>
+    <string name="download_image">Загрузить обложку</string>
+    <string name="sbor_name">Название сбора</string>
+    <string name="howmuch_sbor">Сколько нужно собрать?</string>
+    <string name="numberhowmuch_sbor">Сумма, ₽</string>
+    <string name="cel">Цель</string>
+    <string name="health">Например, лечение человека</string>
+    <string name="description">На что пойдут деньги и как\nони кому-то помогут?</string>
+    <string name="description_name">Описание</string>
+    <string name="howtake_money">Как получить деньги</string>
+    <string name="pay_money">Счёт VK Pay · 1234</string>
+    <string name="next">Далее</string>
+</resources>
